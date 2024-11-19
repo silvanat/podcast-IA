@@ -44,10 +44,9 @@ o formato do roteiro deve ser
 - Não ultrapasse 5 minutos de duração
 ```
 <br/><br/>
-## 🚀 Resultados
+## 🚀 Resultado
 
-Link para o podcast [aqui]([https://share.descript.com/view/uNcwLReSpY2](https://share.descript.com/view/S143TvijfL8)).
 
-URL podcast: [https://share.descript.com/view/S143TvijfL8]([https://share.descript.com/view/uNcwLReSpY2](https://share.descript.com/view/S143TvijfL8))
+URL podcast: [https://share.descript.com/view/S143TvijfL8](https://share.descript.com/view/uNcwLReSpY2](https://share.descript.com/view/S143TvijfL8)
 
 <br/><br/>
