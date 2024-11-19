@@ -1,7 +1,10 @@
 # Podcast: A ERA DA IA - EP.01
 
 ## 📒 Descrição
-Este podcast de quase 4 minutos oferece uma visão rápida sobre Inteligência Artificial. Foi feito como exercício do bootcamp "CAIXA - IA Generativa com Microsoft Copilot".
+Este podcast de quase 4 minutos oferece uma visão rápida sobre Inteligência Artificial.
+
+> ℹ️ **NOTE:** Este é o repositório desenvolvido durante o bootcamp CAIXA - IA Generativa com Microsoft Copilot na plataforma da [DIO](https://dio.me)
+<br/><br/>
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa ChatGPT para roteirização e revisão;
