@@ -35,7 +35,7 @@ o formato do roteiro deve ser
 - no bloco [CURIOSIDADE 3]  a apresentadora fará uma pergunta e a resposta será dada por Mariana e essa curiosidade é sobre uma ferramenta para IA. 
 - no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Silvana e esse foi A Era da IA dessa semana'
 - use termos de fácil explicação
-- O podcast vai ser no estilo pergunta e resposta
+- O podcast vai ser no estilo pergunta e resposta e é apresentado pela Silvana
 - O podcast deve ser curto
 
 {REGRAS NEGATIVAS}
