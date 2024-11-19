@@ -10,10 +10,10 @@ Este podcast de quase 4 minutos oferece uma visão rápida sobre Inteligência A
 - IA Generativa ChatGPT para roteirização e revisão;
 - IA Generativa ElevenLabs para sintetização de voz;
 - Software Descript para edição e montagem do podcast.
-
+<br/><br/>
 ## 🧐 Processo de Criação
 "ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast. "ElevenLabs" ajudou a criar as duas vozes sintéticas para a apresentadora e a convidada, enquanto o "Descript" foi essencial para a edição final, garantindo um fluxo suave e profissional.
-
+<br/><br/>
 ## 🧠 Prompts 
 *Conteúdo do Episódio*: 
 
@@ -43,10 +43,11 @@ o formato do roteiro deve ser
 - Não use muitos termos técnicos
 - Não ultrapasse 5 minutos de duração
 ```
-
+<br/><br/>
 ## 🚀 Resultados
 
 Link para o podcast [aqui]([https://share.descript.com/view/uNcwLReSpY2](https://share.descript.com/view/S143TvijfL8)).
 
 URL podcast: [https://share.descript.com/view/S143TvijfL8]([https://share.descript.com/view/uNcwLReSpY2](https://share.descript.com/view/S143TvijfL8))
 
+<br/><br/>
