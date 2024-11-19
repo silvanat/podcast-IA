@@ -47,6 +47,6 @@ o formato do roteiro deve ser
 ## 🚀 Resultado
 
 
-URL podcast: [https://share.descript.com/view/S143TvijfL8](https://share.descript.com/view/uNcwLReSpY2](https://share.descript.com/view/S143TvijfL8)
+URL podcast: [https://share.descript.com/view/S143TvijfL8](https://share.descript.com/view/S143TvijfL8)
 
 <br/><br/>
